@@ -1,0 +1,10 @@
+# install git
+# sudo apt-get install git
+
+# install microsoft visual studio code
+# https://code.visualstudio.com/Download
+
+# setup 2fa for git push
+# username: kelvinvan
+# password: token
+# https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
