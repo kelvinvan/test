@@ -3,3 +3,4 @@ update
 new
 test
 push
+pull
